@@ -19,3 +19,7 @@
 - give following command
 -  ```npm i```
 -  ```npm test```
+
+## Demo transaction API JMeter html report 
+![screencapture-file-H-Software-apache-jmeter-5-6-2-apache-jmeter-5-6-2-bin-reports-assignment-index-html-2023-09-22-15_09_45](https://github.com/naimakanda/demo-transaction-api-jmeter/assets/44730512/0cdf0d2a-9bb2-4bcb-b951-f76fc3539fd0)
+
